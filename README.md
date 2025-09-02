@@ -35,3 +35,4 @@ Rounded corners & shadows
 Content inside Containers: Text and Icons.
 
 Responsive design using Expanded to adapt to screen size.
+![Screenshot](assets/screenshot.png)
